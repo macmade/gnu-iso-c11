@@ -1,0 +1,4 @@
+language: objective-c
+compiler: clang
+xcode_project: gnu-iso-c11.xcodeproj
+xcode_scheme: gnu-iso-c11
