@@ -35,7 +35,7 @@ The only thing left to say, to GNU developers, in order to thank them for their 
 License
 -------
 
-The project is released under the terms of the MIT License.
+The project is released under the terms of the MIT License.  
 **Yes, sorry, no GPL hell here... Deal with it...**
 
 Repository Infos
